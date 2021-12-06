@@ -14,6 +14,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=havanphong&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havanphong&hide=javascript,css,scss,html&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=havanphong&theme=radical)
 
 <h3 align="left">Languages and Tools:</h3>
